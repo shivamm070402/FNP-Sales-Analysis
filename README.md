@@ -6,7 +6,8 @@ An end-to-end Excel project: cleaning messy order data with **Power Query**, mod
 
 ## Dashboard
 
-![Dashboard](FNP_Dashboard.png)
+![Dashboard]<img width="1097" height="343" alt="image" src="https://github.com/user-attachments/assets/dedac28f-e876-47cd-a959-75bbba75853d" />
+
 
 ---
 
@@ -123,10 +124,10 @@ Built a pivot chart for each question, added KPI cards, and connected slicers (*
 
 ##  Author
 
-**Nupur**  
+**Shivam Mohite**  
 Aspiring Data Analyst | SQL · Python · Power BI · Excel
 
-🔗 LinkedIn: [Nupur Choure](https://www.linkedin.com/in/nupur-choure-923314390)
+
 
 ⭐ If you found this project useful, feel free to star the repository.
 #
